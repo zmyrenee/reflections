@@ -7,12 +7,11 @@ The staging area is a space between working directory and git commit. The stagin
 Staging area may not have all the files that we put in the working directory.
 The value it brings is that we can put everything that we want to commit in the staging area, instead of commit everything we change in the working directory.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+Put the one that we want to commit in the staging area and then commit. In this way, we can make sure that we only commit one commit per logical change.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
 
 
 How do the diagrams help you visualize the branch structure?
