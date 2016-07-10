@@ -11,7 +11,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 Put the one that we want to commit in the staging area and then commit. In this way, we can make sure that we only commit one commit per logical change.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-
+If there is another version of the project that you would like to go further more for the new version and the old version in the future. It is better to keep the new version in another branch.
 
 
 How do the diagrams help you visualize the branch structure?
