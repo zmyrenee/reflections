@@ -3,3 +3,7 @@ If I would like to share my work with others or I would like to work together wi
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 If so, I could make sure the commits that I push are everything that I would like to share.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks means cloning one repo to your own account in github. While, clones means copy the repo from from one github repo to ur own account or copy it to your own computer.
+branches operates on commits and have a branch means a new pointer in a different direction. A branch similar to a new branch in a tree. 
